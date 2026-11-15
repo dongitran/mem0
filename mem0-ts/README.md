@@ -7,10 +7,14 @@ See the complete [Platform API Reference](https://docs.mem0.ai/api-reference).
 
 ## 1. Installation
 
-For the open-source version, you can install the Mem0 package using npm:
+Install the `@laidon/mem0` package using npm, pnpm, or yarn:
 
 ```bash
-npm i mem0ai
+npm i @laidon/mem0
+# or
+pnpm add @laidon/mem0
+# or
+yarn add @laidon/mem0
 ```
 
 ## 2. API Key Setup
@@ -61,4 +65,4 @@ If you have any questions or need assistance, please reach out to us:
 
 - Email: founders@mem0.ai
 - [Join our discord community](https://mem0.ai/discord)
-- GitHub Issues: [Report bugs or request features](https://github.com/mem0ai/mem0/issues)
+- GitHub Issues: [Report bugs or request features](https://github.com/dongitran/mem0/issues)
