@@ -1,5 +1,5 @@
 {
-  "name": "mem0ai",
+  "name": "@laidon/mem0",
   "version": "3.3.1",
   "description": "The Memory Layer For Your AI Apps",
   "main": "./dist/index.js",
@@ -70,7 +70,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mem0ai/mem0",
+    "url": "https://github.com/dongitran/mem0",
     "directory": "mem0-ts"
   },
   "keywords": [
