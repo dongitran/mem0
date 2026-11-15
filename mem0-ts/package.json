@@ -1,6 +1,6 @@
 {
   "name": "@laidon/mem0",
-  "version": "3.3.1",
+  "version": "3.3.2",
   "description": "The Memory Layer For Your AI Apps",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
